@@ -1,3 +1,7 @@
+/* 
+    Chó Cường với Bảo Huy tham khảo bài thì cúi cúi cái đầu xuống!
+    Đời Nhớ Ơn Anh Dnh
+*/
 #include <bits/stdc++.h>
 using namespace std;
 #define dnh int main()
